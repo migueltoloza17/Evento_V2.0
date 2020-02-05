@@ -11,7 +11,7 @@ namespace Evento
         private string[] aMensajes;
 
         /// <summary>
-        /// 
+        /// Constructor de la clase
         /// </summary>
         /// <param name="_aMensajes"></param>
         /// <param name="_IImprimirCadena"></param>
